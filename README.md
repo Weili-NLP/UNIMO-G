@@ -1,4 +1,4 @@
-# UNIMO-G: Unified Image Generation through Multimodal Conditional Diffusion [paper](https://arxiv.org/pdf/2401.13388.pdf)
+## [UNIMO-G: Unified Image Generation through Multimodal Conditional Diffusion](https://arxiv.org/pdf/2401.13388.pdf)
 
 ![UNIMO-G](UNIMO-G.png)
 
@@ -7,18 +7,34 @@ Existing text-to-image diffusion models primarily generate images from text prom
 
 
 ## Cases
-![cases](UNIMO-G-showcase.png)
-
+![cases](UNIMO-G-showcase.png#pic_center)
 
 ## Performance
 Results on text-to-image generation:
-![cases](txt2img-fid.png)
+![cases](txt2img-fid.png#pic_center)
+
+<div align=center><img width="150" height="150" src="txt2img-fid.png"/></div>
 
 Results on zero-shot single-entity subject-driven generation:
-![cases](single.png)
+![cases](single.png#pic_center)
 
 Results on zero-shot multi-entity subject-driven generation:
-![cases](multiple.png)
+![cases](multiple.png#pic_center)
 
 Comparison with baselines for multi-entity subject-driven image generation:
-![cases](selected-comparison.png)
+![cases](selected-comparison.png#pic_center)
+
+
+---
+
+Citation
+---
+If you find our work useful, please cite the following paper:
+```
+@article{li2024unimo,
+  title={UNIMO-G: Unified Image Generation through Multimodal Conditional Diffusion},
+  author={Wei Li, Xue Xu, Jiachen Liu, Xinyan Xiao},
+  journal={arXiv preprint arXiv:2012.15409},
+  year={2020}
+}
+```
