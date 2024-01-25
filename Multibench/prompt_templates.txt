@@ -1,0 +1,10 @@
+Multimodal Prompts Templates
+
+2 subjects:
+a {living object} wearing {wearing object}
+a {living object} is playing with {toy object}
+a {living object} is eating {food object}
+
+3 subjects:
+a {living object} wearing {wearing object} is playing with {toy object}
+a {living object} wearing {wearing object} is eating {food object}
