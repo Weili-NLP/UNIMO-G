@@ -9,15 +9,15 @@ Existing text-to-image diffusion models primarily generate images from text prom
 ## Cases
 ![cases](UNIMO-G-showcase.png#pic_center)
 
-## Quantitative Comparison
-Results on text-to-image generation:
-<div align=center><img width="500" src="txt2img-fid.png"/></div>
+## Quantitative Evaluation
+### (1) Text-to-image Generation:
+<div align=left><img width="500" src="txt2img-fid.png"/></div>
 
-Results on zero-shot single-entity subject-driven generation:
-<div align=center><img width="500" src="single.png"/></div>
+### (2) Zero-shot Single-entity Subject-driven Generation:
+<div align=left><img width="500" src="single.png"/></div>
 
-Results on zero-shot multi-entity subject-driven generation:
-<div align=center><img width="500" src="multiple.png"/></div>
+### (3) Zero-shot Multi-entity Subject-driven Generation:
+<div align=left><img width="500" src="multiple.png"/></div>
 
 
 ## Qualitative Comparison
